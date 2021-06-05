@@ -10,7 +10,12 @@
 ---
 [Covid Vaccines Tracker](/pdf/Covid_Visualization.pdf)
 
-**Vaccine statistics and map on a dashboard**
+**Covid-19 Vaccine statistics and map on a dashboard**
+
+This dashboard is a part of a software development project, consisting in analyzing the spread of Covid-19 disease in France with an animated map, which allows to visualize per day the deaths due to covid in the French departments.
+
+Different graphs and gifs have been produced to illustrate how Covid-19 affects the population, for example by age (e.g. a dashboard with different statistical characteristics).
+
 
 <img src="images/vacctrackerproject.png?raw=true"/>
 
