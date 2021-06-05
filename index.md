@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Covid Vaccines Tracker](/pdf/sample_presentation.pdf)
+[Covid Vaccines Tracker](/pdf/Covid_Visualization.pdf)
 <img src="images/vacctrackerproject.png?raw=true"/>
 
 
