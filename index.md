@@ -9,9 +9,8 @@
 
 ---
 [Covid Vaccines Tracker](/pdf/sample_presentation.pdf)
-<img src="images/dashboard_sample.png?raw=true"/>
-<img src="images/kepler-gl.png?raw=true"/>
-<img src="images/charts_dashboard.png?raw=true"/>
+<img src="images/vacctrackerproject.png?raw=true"/>
+
 
 
 
