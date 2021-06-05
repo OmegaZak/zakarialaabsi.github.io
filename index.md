@@ -9,6 +9,9 @@
 
 ---
 [Covid Vaccines Tracker](/pdf/Covid_Visualization.pdf)
+
+**Vaccine statistics and map on a dashboard**
+
 <img src="images/vacctrackerproject.png?raw=true"/>
 
 
