@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Covid Vaccines Tracker](/pdf/Covid_Visualization.pdf)
+### [Covid Vaccines Tracker](/pdf/Covid_Visualization.pdf)
 
 **Covid-19 Vaccine statistics and map on a dashboard**
 
