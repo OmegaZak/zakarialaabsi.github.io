@@ -13,8 +13,22 @@
 + Cloud computing: Azure, AWS, GCP
 + Blockhain & smart-contract, Solidity
 
+## Data Wrangling
 
-## Data science / Exploratory data analysis
+Language used : Python
+
+Associated libraries : Pandas, Geopandas
+
+Structuring
+Cleaning
+Enrichment
+Validation
+
+
+
+
+
+## Data Analysis
 
 ### Machine Learning / Deep Learning
 
