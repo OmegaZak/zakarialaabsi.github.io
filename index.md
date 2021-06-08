@@ -12,6 +12,8 @@ In order to make a prediction, a forecasting method via time series was used cal
 
 For the visualization part, an animation has been produced via circles whose diameter changes according to the intensity of the bike traffic in each zone where a bike counter is located in Montpellier city.
 
+[More information on the Github repository](https://github.com/zlaabsi/DataChallenge)
+
 
 <img src="images/datachallenge.png?raw=true"/>
 
@@ -23,6 +25,8 @@ For the visualization part, an animation has been produced via circles whose dia
 This dashboard is a part of a software development project, consisting in analyzing the spread of Covid-19 disease in France with an animated map, which allows to visualize per day the deaths due to covid in the French departments.
 
 Different graphs and gifs have been produced to illustrate how Covid-19 affects the population, for example by age (e.g. a dashboard with different statistical characteristics).
+
+[More information on the Github repository](https://github.com/jihene-b3/covidviz)
 
 
 <img src="images/vacctrackerproject.png?raw=true"/>
