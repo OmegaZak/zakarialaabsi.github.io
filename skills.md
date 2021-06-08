@@ -16,7 +16,7 @@
 
 ## Data science / Exploratory data analysis
 
-### Machine Learning 
+### Machine Learning / Deep Learning
 
 #### Unsupervised Learning
 
