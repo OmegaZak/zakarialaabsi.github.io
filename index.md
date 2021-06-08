@@ -5,6 +5,14 @@
 ### Category Name 1 
 
 ### [Bike traffic : prediction and visualization](/sample_page)
+
+**Predicting and visualizing bicycle traffic in Montpellier**
+
+In order to make a prediction, a forecasting method via time series was used called the SARIMA (*Seasonnal AutoRegressive Integrated Moving Average*) method to train a database (database trained at the end of 2020) and to make a forecast for April 2, 2021 at 9:00 AM. 
+
+For the visualization part, an animation has been produced via circles whose diameter changes according to the intensity of the bike traffic in each zone where a bike counter is located in Montpellier city.
+
+
 <img src="images/datachallenge.png?raw=true"/>
 
 ---
