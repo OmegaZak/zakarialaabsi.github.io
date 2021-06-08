@@ -13,8 +13,39 @@
 + Blockhain & smart-contract, Solidity
 
 
-### Data science
+## Data science
 
-### Machine Learning / Deep Learning
+### Machine Learning 
+
+#### Unsupervised learning
+
+Language used : R
+
+Associated package : FactoMinerR, ade4
+
++ Clustering :
+  + K-means
+  + Hierarchical K-means 
+
+
++ Dimensionality reduction :
+  + Correspondence analysis (CA)
+  + Principal component analysis (PCA)
+  + Multiple correspondance analysis (MCA)
+
+#### Supervised learning
+
+Language used: Python
+Associated libraries / Frameworks : TensorFlow, Keras
+
+
+### Deep Learning
+
+Language used: Python
+Associated libraries / Frameworks : TensorFlow, Keras
+
+
+
+
 
 ### Blockchain / Smart-Contract
