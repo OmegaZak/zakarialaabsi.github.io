@@ -35,7 +35,7 @@ Associated package : FactoMinerR, ade4
   + Principal component analysis (PCA)
   + Multiple correspondance analysis (MCA)
  
- + Regression :
++ Regression :
   + Partial Least Squares regression (PLS)
   + Principal component regression (PCR) 
   + Ridge / LASSO regression
@@ -55,10 +55,10 @@ Associated libraries / Frameworks : Scikit-learn,  TensorFlow, Keras
 
 
 + Neural networks :
-+   Feedforward neural network FFNN 
-+   Recurrent neural network RNN
-+   Long short-term memory LSTM
-+   Convolutional neural network CNN
+  +   Feedforward neural network FFNN 
+  +   Recurrent neural network RNN
+  +   Long short-term memory LSTM
+  +   Convolutional neural network CNN
 
 
 
