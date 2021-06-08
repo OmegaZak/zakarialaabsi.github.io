@@ -63,6 +63,16 @@ Associated libraries / Frameworks : Scikit-learn,  TensorFlow, Keras
 
 
 
+## Cloud computing
 
+Azure, AWS, GCP
 
-### Blockchain / Smart-Contract
+## Data visualization :
+
+Geospacial analysis : Kepler.gl with WebGL
+
+Survival analysis : R
+
+Dashboard : Microsoft Power BI, Dash Plotly (Python), Tableau
+
+## Blockchain / Smart-Contract
