@@ -2,6 +2,7 @@
 ## Areas of Expertise
 
 + Statistical modeling
++ Exploratory data analysis
 + Data mining / data science
 + Python & Libraries 
 + R language (RStudio)
@@ -13,15 +14,16 @@
 + Blockhain & smart-contract, Solidity
 
 
-## Data science
+## Data science / Exploratory data analysis
 
 ### Machine Learning 
 
-#### Unsupervised learning
+#### Unsupervised Learning
 
 Language used : R
 
 Associated package : FactoMinerR, ade4
+
 
 + Clustering :
   + K-means
@@ -32,17 +34,32 @@ Associated package : FactoMinerR, ade4
   + Correspondence analysis (CA)
   + Principal component analysis (PCA)
   + Multiple correspondance analysis (MCA)
+ 
+ + Regression :
+  + Partial Least Squares regression (PLS)
+  + Principal component regression (PCR) 
+  + Ridge / LASSO regression
 
-#### Supervised learning
+
+
+#### Supervised Learning
 
 Language used: Python
-Associated libraries / Frameworks : TensorFlow, Keras
+Associated libraries / Frameworks : Scikit-learn,  TensorFlow, Keras
+
++ Classification :
+  + K-Nearest Neighbors (KNN)
+
++ Regression :
+  + K-Nearest Neighbors (KNN)
 
 
-### Deep Learning
++ Neural networks :
++   Feedforward neural network FFNN 
++   Recurrent neural network RNN
++   Long short-term memory LSTM
++   Convolutional neural network CNN
 
-Language used: Python
-Associated libraries / Frameworks : TensorFlow, Keras
 
 
 
