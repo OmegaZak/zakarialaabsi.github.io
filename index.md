@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Bike traffic : prediction and visualization](/sample_page)
+<img src="images/datachallenge.png?raw=true"/>
 
 ---
 ### [Covid Vaccines Tracker](/pdf/Covid_Visualization.pdf)
