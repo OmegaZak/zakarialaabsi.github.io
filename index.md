@@ -1,8 +1,7 @@
-## Portfolio
+## Projects
 
 ---
 
-### Category Name 1 
 
 ### [Bike traffic : prediction and visualization](/sample_page)
 
@@ -35,8 +34,7 @@ Different graphs and gifs have been produced to illustrate how Covid-19 affects 
 
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
